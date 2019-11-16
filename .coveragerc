@@ -1,0 +1,5 @@
+[run]
+branch=True
+omit=
+	*/interface/*
+	*/process/process_def.py
